@@ -30,11 +30,11 @@ https://github.com/s-mas01/Dog_Knight.git
 
 
 ## 前作"DogKnight"からの変更点
-[前作:Dog_Knight]
+[前作:Dog_Knight]  
 出先や移動中に遊ぶことを想定して製作  
 にWキー：前進　Sキー：後退　Aキー：左旋回　Dキー：右旋回  Eキー：スキル（薙ぎ払い）マウス操作は左クリックで攻撃だけにした。
 
-[今作:Dog_Knight2]
+[今作:Dog_Knight2]  
 腰を据えて遊べることを想定して製作  
 WASDで移動  Eキー：スキル（薙ぎ払い）マウス操作は左右の視点操作と左クリックで攻撃
 
