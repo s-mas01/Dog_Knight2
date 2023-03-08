@@ -1,7 +1,7 @@
 # Name：DogKnight
  
 # プレイ画面（GIF）
- ##画面遷移
+ ## 画面遷移
  ![Screen_transition](https://user-images.githubusercontent.com/125266372/223749680-060a4941-6a74-411e-b3c4-6f5cef93c452.gif)
  ## 戦闘風景
  ![Fight_sample](https://user-images.githubusercontent.com/125266372/223749972-21caf639-6bd7-48d8-a170-e46912de15fa.gif)
