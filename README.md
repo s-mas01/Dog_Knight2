@@ -1,20 +1,14 @@
 # Name：DogKnight
  
-# プレイ画面
- * Title  
-![Title1](https://user-images.githubusercontent.com/125266372/223723400-a5edd2bd-49f4-496d-9ef6-b73f2b221e6b.png)
-
- * How To
-![HowTo1](https://user-images.githubusercontent.com/125266372/223723629-6498f75c-f92c-4777-9a5a-f31dc0e6c072.png)
+# プレイ画面（GIF）
+ ##画面遷移
+ ![Screen_transition](https://user-images.githubusercontent.com/125266372/223749680-060a4941-6a74-411e-b3c4-6f5cef93c452.gif)
+ ## 戦闘風景
+ ![Fight_sample](https://user-images.githubusercontent.com/125266372/223749972-21caf639-6bd7-48d8-a170-e46912de15fa.gif)
+ ## 勝利画面
+ ![Win_sample](https://user-images.githubusercontent.com/125266372/223750029-4004e5b6-e878-4f52-8dc2-09d31694addc.gif)
  
- * Object
-![Object](https://user-images.githubusercontent.com/125266372/223723755-d1208793-531b-40c5-af57-78b87002e397.png)
-
- * PIckMap
-![PickMap1](https://user-images.githubusercontent.com/125266372/223723923-ffd7983b-e55e-4b0f-9f5a-ad30d637c6f5.png)
-
- * Game Screan
-![GameScrean](https://user-images.githubusercontent.com/125266372/223724050-8eeefd02-549f-456e-bf13-47c49497100a.png)
+ 
  
 # 特徴
 前作"Dog_Knight"の知識・反省を生かして製作に取り掛かる  
@@ -26,10 +20,10 @@ https://github.com/s-mas01/Dog_Knight.git
 ・SE選び  
 ・コード製作  
 ・デバック  
-### 全て私自身が選別・製作しました。
+　### 全て私自身が選別・製作しました。
 
 
-## 前作"DogKnight"からの変更点
+　## 前作"DogKnight"からの変更点
 [前作:Dog_Knight]  
 出先や移動中に遊ぶことを想定して製作  
 にWキー：前進　Sキー：後退　Aキー：左旋回　Dキー：右旋回  Eキー：スキル（薙ぎ払い）マウス操作は左クリックで攻撃だけにした。
@@ -88,8 +82,26 @@ windows intel 64-bit
 # メモ
 RPGにある程度必要そうな要素は盛り込んだがまだ設定画面やアイテムの実装が出来ていない。  
 クリアに関する条件の部分のコードも雑で変更が容易でなく改善の余地が過分にある。  
-（ゆくゆくは別のコードにまとめて関数として呼び出すつもり。）  
+（ゆくゆくは別のコードにまとめて関数として呼び出すつもり。）
 
 # 製作者
 作成者：白鳥雅也  
-所属　：山梨大学 メカトロニクス工学科  
+所属　：山梨大学 メカトロニクス工学科 
+
+# サンプル画面
+* Title  
+![Title1](https://user-images.githubusercontent.com/125266372/223723400-a5edd2bd-49f4-496d-9ef6-b73f2b221e6b.png)
+
+ * How To
+![HowTo1](https://user-images.githubusercontent.com/125266372/223723629-6498f75c-f92c-4777-9a5a-f31dc0e6c072.png)
+ 
+ * Object
+![Object](https://user-images.githubusercontent.com/125266372/223723755-d1208793-531b-40c5-af57-78b87002e397.png)
+
+ * PIckMap
+![PickMap1](https://user-images.githubusercontent.com/125266372/223723923-ffd7983b-e55e-4b0f-9f5a-ad30d637c6f5.png)
+
+ * Game Screan
+![GameScrean](https://user-images.githubusercontent.com/125266372/223724050-8eeefd02-549f-456e-bf13-47c49497100a.png)
+
+ 
