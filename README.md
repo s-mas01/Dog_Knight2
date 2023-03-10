@@ -7,7 +7,8 @@
  ![Fight_sample](https://user-images.githubusercontent.com/125266372/223749972-21caf639-6bd7-48d8-a170-e46912de15fa.gif)
  ## 勝利画面
  ![Win_sample](https://user-images.githubusercontent.com/125266372/223750029-4004e5b6-e878-4f52-8dc2-09d31694addc.gif)
- 
+ ## 視点移動
+ ![shiten_idou](https://user-images.githubusercontent.com/125266372/224252527-f27102dd-3b7f-4181-9266-5d595d0964a3.gif)
  
  
 # 特徴
