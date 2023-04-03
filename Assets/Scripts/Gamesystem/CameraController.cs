@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
 {
     [SerializeField] GameObject player;
     private Vector3 playerPos;
-    private float speed = 700f;
+    private float speed = 700;
     private float mouseInputX;
     //private float mouseInputY;
     // Start is called before the first frame update

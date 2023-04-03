@@ -9,6 +9,7 @@ using UnityEngine.UI;
 */
 public class PlayerUIManager : MonoBehaviour
 {
+    
     public Slider hpSlider;
 
     public void Init(PlayerManager playerManager)

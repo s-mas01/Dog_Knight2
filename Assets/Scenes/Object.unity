@@ -353,8 +353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 369fba9f48677e845be53eb46cbeec84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PickMapButton: {fileID: 0}
-  TitleButton: {fileID: 0}
+  VolumeButton: {fileID: 0}
 --- !u!114 &728175182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -582,8 +581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 369fba9f48677e845be53eb46cbeec84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PickMapButton: {fileID: 0}
-  TitleButton: {fileID: 0}
+  VolumeButton: {fileID: 0}
 --- !u!114 &930269522
 MonoBehaviour:
   m_ObjectHideFlags: 0
