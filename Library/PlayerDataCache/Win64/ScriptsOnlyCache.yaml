@@ -30,8 +30,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -106,7 +108,7 @@ ScriptsOnlyBuild:
     methodName: Object1
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
-    methodName: Object2
+    methodName: OnStart2
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
     methodName: Object
@@ -1864,7 +1866,7 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
-      Hash: 0ea00d9a90dc3586101e767889923ae1
+      Hash: 2dfa5b9e14ebc34a6ce13fb0beccd4de
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ClearManager

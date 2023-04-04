@@ -5856,6 +5856,7 @@ MonoBehaviour:
   GameClearText: {fileID: 1751031954}
   GetKeyText: {fileID: 1881692771}
   Canvas: {fileID: 443906253}
+  Map: 2
 --- !u!64 &1486422588
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8016,6 +8017,7 @@ MonoBehaviour:
   GameClearText: {fileID: 1751031954}
   GetKeyText: {fileID: 1881692771}
   Canvas: {fileID: 443906253}
+  Map: 2
 --- !u!1 &2051070347
 GameObject:
   m_ObjectHideFlags: 0

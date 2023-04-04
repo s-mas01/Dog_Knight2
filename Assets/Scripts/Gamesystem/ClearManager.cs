@@ -13,6 +13,8 @@ public class ClearManager : MonoBehaviour
     public GameObject GameClearText;
     public GameObject GetKeyText;
     public GameObject Canvas;
+    public int Map;
+
     // Start is called before the first frame update
     void Start()
     {
