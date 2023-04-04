@@ -28,6 +28,10 @@ public class TitleSceneManager : MonoBehaviour
     {
         SceneManager.LoadScene("Object1");
     }
+    public void Object2()
+    {
+        SceneManager.LoadScene("Object2");
+    }
     public void PickMap()
     {
         SceneManager.LoadScene("PickMap");;
@@ -40,6 +44,10 @@ public class TitleSceneManager : MonoBehaviour
     public void OnStart1()
     {
         SceneManager.LoadScene("SampleScene1");
+    }
+    public void OnStart2()
+    {
+        SceneManager.LoadScene("SampleScene2");
     }
     public void OnConfig()
     {

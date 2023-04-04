@@ -106,6 +106,9 @@ ScriptsOnlyBuild:
     methodName: Object1
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
+    methodName: Object2
+  - assembly: Assembly-CSharp
+    fullTypeName: TitleSceneManager
     methodName: Object
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
@@ -119,6 +122,12 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
     methodName: OnStart1
+  - assembly: Assembly-CSharp
+    fullTypeName: TitleSceneManager
+    methodName: PickMap
+  - assembly: Assembly-CSharp
+    fullTypeName: TitleSceneManager
+    methodName: OnStart2
   - assembly: Assembly-CSharp
     fullTypeName: TitleSceneManager
     methodName: PickMap
@@ -248,6 +257,63 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/Object1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1548}
+    - Class: 114
+      Script: {instanceID: 2646}
+    - Class: 114
+      Script: {instanceID: 2874}
+    - Class: 114
+      Script: {instanceID: 3178}
+    - Class: 114
+      Script: {instanceID: 4964}
+    - Class: 114
+      Script: {instanceID: 5320}
+    - Class: 114
+      Script: {instanceID: 5600}
+    - Class: 114
+      Script: {instanceID: 5936}
+    - Class: 114
+      Script: {instanceID: 6092}
+    - Class: 114
+      Script: {instanceID: 6436}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Object2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -1915,6 +1981,7 @@ ScriptsOnlyBuild:
   - Assets/Scenes/PickMap.unity
   - Assets/Scenes/Object.unity
   - Assets/Scenes/Object1.unity
+  - Assets/Scenes/Object2.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/SampleScene1.unity
   - Assets/Scenes/SampleScene2.unity
