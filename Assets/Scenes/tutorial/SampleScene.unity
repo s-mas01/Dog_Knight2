@@ -1841,7 +1841,7 @@ MonoBehaviour:
   playerStatusSO: {fileID: 11400000, guid: 9eca6fd13d9977e4fb062fded93c368e, type: 2}
   enemyUIManager: {fileID: 1881638583}
   hp: 0
-  clearManager: {fileID: 0}
+  clearManager: {fileID: 2037905115}
 --- !u!136 &434698848
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -4142,7 +4142,6 @@ MonoBehaviour:
   GetKeyText: {fileID: 1881692771}
   Canvas: {fileID: 443906253}
   Map: 0
-  stageClear: {fileID: 0}
 --- !u!64 &1486422588
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4175,7 +4174,7 @@ MonoBehaviour:
   playerStatusSO: {fileID: 11400000, guid: 9eca6fd13d9977e4fb062fded93c368e, type: 2}
   enemyUIManager: {fileID: 1931095245}
   hp: 0
-  clearManager: {fileID: 0}
+  clearManager: {fileID: 1486422587}
 --- !u!195 &1486422590
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -6004,7 +6003,6 @@ MonoBehaviour:
   GetKeyText: {fileID: 1881692771}
   Canvas: {fileID: 443906253}
   Map: 0
-  stageClear: {fileID: 0}
 --- !u!1 &2051070347
 GameObject:
   m_ObjectHideFlags: 0
